@@ -1,0 +1,219 @@
+﻿Diagnose log at 2026-02-14T20:51:54Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\lageg
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=GUILE-DESKTOP
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=D:\Meus Documentos\OneDrive-2024\OneDrive
+ChocolateyLastPathUpdate=133843610375911624
+SSH_ASKPASS=C:/Program Files/Git/mingw64/bin/git-askpass.exe
+TMPDIR=C:\Users\lageg\AppData\Local\Temp
+ProgramFiles(x86)=C:\Program Files (x86)
+CONFIG_SITE=C:/Program Files/Git/etc/config.site
+LC_CTYPE=pt_BR.UTF-8
+USERDOMAIN=GUILE-DESKTOP
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+MSYSTEM_PREFIX=C:/Program Files/Git/mingw64
+USERNAME=lageg
+MINGW_PREFIX=C:/Program Files/Git/mingw64
+VBOX_HWVIRTEX_IGNORE_SVM_IN_USE=1
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+ACLOCAL_PATH=C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+TEMP=C:\Users\lageg\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\lageg\AppData\Local
+MANPATH=C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+TERM=xterm
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD
+MSYSTEM_CARCH=x86_64
+IntelliJ IDEA=D:\Program Files (x86)\IntelliJ IDEA 2024.3.3\bin;
+WSLENV=HOSTTERM::HOSTLANG
+ProgramData=C:\ProgramData
+JAVA_HOME=C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot\
+TERM_PROGRAM_VERSION=3.7.9
+ORIGINAL_TMP=C:/Users/lageg/AppData/Local/Temp
+PROCESSOR_REVISION=2102
+SYSTEMROOT=C:\WINDOWS
+TERM_PROGRAM=mintty
+PROCESSOR_LEVEL=25
+NUMBER_OF_PROCESSORS=24
+PATH=C:/Program Files/Git/mingw64/libexec/git-core;C:\Users\lageg\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\lageg\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\sbt\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot;D:\ffmpeg\bin;C:\Program Files\Git\cmd;D:\Program Files\Kubernetes\Minikube;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\sbt\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot;C:\Users\lageg\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\lageg\AppData\Local\Programs\Python\Python310;C:\Users\lageg\AppData\Local\Programs\Python\Python313\Scripts;C:\Users\lageg\AppData\Local\Programs\Python\Python313;C:\Users\lageg\AppData\Local\Programs\Python\Launcher;C:\Users\lageg\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA 2024.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin;C:\Program Files (x86)\sbt\bin;C:\ffmpeg\bin;D:\Program Files\Kubernetes\Minikube;D:\kubectl;C:\Users\lageg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+SHLVL=1
+APPDATA=C:\Users\lageg\AppData\Roaming
+SYSTEMDRIVE=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+OLDPWD=D:/Meus Documentos/Documentos/01 - GitHub/CDPA
+HOSTNAME=Guile-Desktop
+PKG_CONFIG_PATH=C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+MSYSTEM_CHOST=x86_64-w64-mingw32
+ORIGINAL_TEMP=C:/Users/lageg/AppData/Local/Temp
+USERPROFILE=C:\Users\lageg
+RlsSvcPort=22112
+PLINK_PROTOCOL=ssh
+INFOPATH=C:\Program Files\Git\mingw64\local\info;C:\Program Files\Git\mingw64\share\info;C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+ProgramW6432=C:\Program Files
+ACSvcPort=17532
+ChocolateyInstall=C:\ProgramData\chocolatey
+GIT_TRACE2_PARENT_SID=b16ee72b-0a61-4097-9e5b-6e81d7a6c280
+BESIEGE_UNITY_ASSEMBLIES=D:/Games/Besiege/Besiege_Data\Managed/
+HOSTLANG=pt_BR.UTF-8
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=C:/Program Files/Git/mingw64/lib
+SBT_HOME=C:\Program Files (x86)\sbt\
+IntelliJ IDEA Community Edition=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin;
+TMP=C:\Users\lageg\AppData\Local\Temp
+PUBLIC=C:\Users\Public
+SHELL=C:\Program Files\Git\usr\bin\bash.exe
+HOME=C:\Users\lageg
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+HOSTTERM=xterm
+PROGRAMFILES=C:\Program Files (x86)
+DISPLAY=needs-to-be-defined
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+WINDIR=C:\WINDOWS
+_=C:/Program Files/Git/mingw64/bin/git
+USERDOMAIN_ROAMINGPROFILE=GUILE-DESKTOP
+CommonProgramW6432=C:\Program Files\Common Files
+HOMEDRIVE=C:
+ACSetupSvcPort=23210
+LOGONSERVER=\\GUILE-DESKTOP
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+SESSIONNAME=Console
+PWD=D:/Meus Documentos/Documentos/01 - GitHub/CDPA/aws-networking-labs
+EXEPATH=C:\Program Files\Git
+BESIEGE_GAME_ASSEMBLIES=D:/Games/Besiege/Besiege_Data\Managed/
+PROCESSOR_ARCHITEW6432=AMD64
+ORIGINAL_PATH=C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\lageg\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\sbt\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot;D:\ffmpeg\bin;C:\Program Files\Git\cmd;D:\Program Files\Kubernetes\Minikube;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\sbt\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot;C:\Users\lageg\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\lageg\AppData\Local\Programs\Python\Python310;C:\Users\lageg\AppData\Local\Programs\Python\Python313\Scripts;C:\Users\lageg\AppData\Local\Programs\Python\Python313;C:\Users\lageg\AppData\Local\Programs\Python\Launcher;C:\Users\lageg\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA 2024.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin;C:\Program Files (x86)\sbt\bin;C:\ffmpeg\bin;D:\Program Files\Kubernetes\Minikube;D:\kubectl;C:\Users\lageg\AppData\Local\Programs\Microsoft VS Code\bin
+PROCESSOR_ARCHITECTURE=x86
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+OS=Windows_NT
+VBOX_MSI_INSTALL_PATH=D:\Program Files\Oracle\VirtualBox\
+MINGW_CHOST=x86_64-w64-mingw32
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=C:/Program Files/Git/mingw64/include
+OneDriveConsumer=D:\Meus Documentos\OneDrive-2024\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\lageg\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\lageg\AppData\Local\Temp\24234e7a8479eb5d6a1b07ea'... OK
+Reading from temporary file 'C:\Users\lageg\AppData\Local\Temp\24234e7a8479eb5d6a1b07ea'... OK
+Deleting temporary file 'C:\Users\lageg\AppData\Local\Temp\24234e7a8479eb5d6a1b07ea'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\lageg
+UserDataDirectoryPath: C:\Users\lageg\.gcm
+GetCurrentDirectory(): D:\Meus Documentos\Documentos\01 - GitHub\CDPA\aws-networking-labs
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:51203/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.51.0.windows.1'
+Locating current repository...Git repository at 'D:/Meus Documentos/Documentos/01 - GitHub/CDPA/aws-networking-labs/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/lageg/.gitconfig	user.email=lage.cdpa@gmail.com
+file:C:/Users/lageg/.gitconfig	user.nickname=lage-cdpa
+file:C:/Users/lageg/.gitconfig	user.name=Lage
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/lage-cdpa/aws-networking-labs.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\lageg\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\lageg\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
